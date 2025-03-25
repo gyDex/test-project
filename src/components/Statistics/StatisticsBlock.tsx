@@ -1,5 +1,4 @@
 import { Flex } from "@radix-ui/themes";
-import Image from "next/image";
 import React from "react";
 import { StatisticsItem } from "./StatisticsItem";
 

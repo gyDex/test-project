@@ -1,7 +1,6 @@
 import { BroadcastBlock, StatisticsBlock } from "@/components";
-import { Button, Flex } from "@radix-ui/themes";
+import { Flex } from "@radix-ui/themes";
 import * as React from "react";
-import { CiStreamOn } from "react-icons/ci";
 
 export default function Home() {
   

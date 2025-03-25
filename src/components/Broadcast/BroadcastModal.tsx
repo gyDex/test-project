@@ -5,7 +5,7 @@ import { RxCross2 } from "react-icons/rx";
 import { Flex } from "@radix-ui/themes";
 
 type Props = {
-    callback: any;
+    callback: () => void;
 }
 
 export const BroadcastModal: React.FC<Props> = ({  callback }) => {

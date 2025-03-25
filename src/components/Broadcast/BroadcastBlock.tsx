@@ -2,7 +2,7 @@
 
 import { Flex } from '@radix-ui/themes';
 import clsx from 'clsx';
-import React, { useCallback, useState } from 'react';
+import React, { useState } from 'react';
 import { CiStreamOn } from 'react-icons/ci';
 import { BroadcastModal } from './BroadcastModal';
 
